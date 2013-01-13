@@ -1,7 +1,7 @@
 <?php
 /*
  ******************************************************************************************************************
- *  Author:           Nam Tran, GreyHatApps LLC
+ *  Author:           Nam Tran, Grey Hat Apps
  *  Email Address:    nam@greyhatapps
  *  Date Created:     1/16/2011
  *
